@@ -1,0 +1,24 @@
+_repo: The-Interdependence-of-Literature_3778
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Curtis, Georgina Pell
+    birthdate: 1859
+    deathdate: 1922
+    gutenberg_agent_id: '1299'
+    url: http://www.gutenberg.org/2009/agents/1299
+description: ''
+gutenberg_issued: '2003-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '3778'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comparative literature'
+- !lcc 'PN'
+- GITenberg
+title: The Interdependence of Literature
+url: http://www.gutenberg.org/ebooks/3778
